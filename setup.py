@@ -8,5 +8,7 @@ setup(name='deep_sort_pytorch',
       author='ZQPei',
       author_email='dfzspzq@163.com',
       url='https://github.com/ZQPei/deep_sort_pytorch',
-      packages=['deep_sort_pytorch'],
+      packages=['deep_sort_pytorch.deep_sort',
+                'deep_sort_pytorch.deep_sort.deep',
+                'deep_sort_pytorch.deep_sort.sort'],
       )
