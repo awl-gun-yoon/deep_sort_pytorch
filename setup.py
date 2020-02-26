@@ -10,5 +10,6 @@ setup(name='deep_sort_pytorch',
       url='https://github.com/ZQPei/deep_sort_pytorch',
       packages=['deep_sort_pytorch.deep_sort',
                 'deep_sort_pytorch.deep_sort.deep',
-                'deep_sort_pytorch.deep_sort.sort'],
+                'deep_sort_pytorch.deep_sort.sort',
+                'deep_sort_pytorch.utils'],
       )
