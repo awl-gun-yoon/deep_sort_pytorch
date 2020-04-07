@@ -2,6 +2,12 @@
 
 ![](demo/demo.gif)
 
+## Install
+
+```bash
+python setup.py install
+```
+
 ## Update(1-1-2020)
 Changes
 - fix bugs
